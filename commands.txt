@@ -1,0 +1,15 @@
+This is demo file where are practicing about git versioning system
+
+
+
+git init
+git add
+git commit
+git restore
+git status
+git log
+git branch
+git checkout -b
+git checkout switching branch name
+git switch switching branch name
+git pull origin main ( this command will pull the changes from github main branch)
